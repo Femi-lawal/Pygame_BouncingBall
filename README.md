@@ -12,6 +12,40 @@ This project began with a single request to create a Python program of a ball bo
 
 ---
 
+## Project Description
+
+This project demonstrates a physics-based simulation of a ball bouncing inside a continuously spinning hexagon using the Pygame library. The simulation incorporates realistic gravity, friction, and collision detection, providing an engaging example of object-oriented programming and game physics in Python.
+
+## Usage Instructions
+
+1. **Install Python**  
+  Ensure you have Python 3.7 or higher installed. Download it from [python.org](https://www.python.org/downloads/).
+
+2. **Install Pygame**  
+  Open a terminal or command prompt and run:  
+  ```bash
+  pip install pygame
+  ```
+
+3. **Download the Project**  
+  Clone the repository or download the source code:
+  ```bash
+  git clone https://github.com/ProfEspinosaAIML/Pygame_BouncingBall.git
+  cd Pygame_BouncingBall
+  ```
+
+4. **Run the Simulation**  
+  Execute the main script:
+  ```bash
+  python bouncing_ball.py
+  ```
+
+5. **Controls**  
+  - The simulation starts automatically.
+  - To exit, close the simulation window.
+s
+For further customization, you can adjust parameters such as gravity, friction, and rotation speed within the `bouncing_ball.py` script.
+
 ### Improved Prompt for Better Results
 
 Instead of a high-level request, a more detailed and structured prompt would have produced a better initial response, leading to faster and more accurate code generation.
